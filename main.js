@@ -21,7 +21,7 @@ setInterval(()=>{
 
 
 
- var countDownDate = new Date("Nov 12, 2022 16:37:52").getTime();
+ var countDownDate = new Date("Aug 12, 2023 16:37:52").getTime();
 
  // Run myfunc every second
  var myfunc = setInterval(function() {
